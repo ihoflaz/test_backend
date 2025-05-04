@@ -4,7 +4,7 @@ const DrugSearch = require('../models/DrugSearch');
 
 // OpenFDA API base URL
 const FDA_BASE_URL = 'https://api.fda.gov';
-const API_KEY = process.env.FDA_API_KEY || ''; // OpenFDA API anahtarınızı .env dosyasına ekleyin
+const API_KEY = process.env.FDA_API_KEY || 'ymXaOdHfXpnQH3DjjflMVTMQZpT4aw7jcJ5P9KwR';
 
 /**
  * İlaç araması yapan fonksiyon
